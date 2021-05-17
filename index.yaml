@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  adminer:
+  - apiVersion: v2
+    appVersion: 4.8.0-standalone
+    created: "2021-05-17T22:00:49.011318+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 7744468756e40fc7bbc3c495a9d0bbb794ba0663b67512487652b4ae98fe383c
+    name: adminer
+    type: application
+    urls:
+    - adminer/adminer-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-17T22:00:49.009312+09:00"
